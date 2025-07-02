@@ -1,6 +1,6 @@
 # Expense Tracking App Back-End
 
-This is the backend for an expense tracking application built with Node.js, Express.js, MongoDB, and Passport.js for authentication.
+This is the back-end for an expense tracking application built with Node.js, Express.js, MongoDB, and Passport.js for authentication.
 
 ## Features
 
